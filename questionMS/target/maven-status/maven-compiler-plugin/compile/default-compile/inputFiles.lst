@@ -1,0 +1,12 @@
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\model\Question.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\repository\DataSequenceRepository.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\repository\QuestionRepository.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\exception\QuestionNotFoundException.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\model\DataSequences.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\service\SequenceGeneratorService.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\dto\QuestionNumbersDto.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\exception\QuestionExceptionHandler.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\QuestionMsApplication.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\exception\SubjectNotFoundException.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\controller\QuestionController.java
+C:\Users\shahnaz_shaik\Desktop\quizProject\questionMS\src\main\java\com\thbs\questionMS\service\QuestionService.java

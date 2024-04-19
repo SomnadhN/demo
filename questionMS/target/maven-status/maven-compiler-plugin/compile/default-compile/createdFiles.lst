@@ -1,0 +1,12 @@
+com\thbs\questionMS\QuestionMsApplication.class
+com\thbs\questionMS\repository\DataSequenceRepository.class
+com\thbs\questionMS\service\QuestionService.class
+com\thbs\questionMS\model\DataSequences.class
+com\thbs\questionMS\exception\QuestionNotFoundException.class
+com\thbs\questionMS\controller\QuestionController.class
+com\thbs\questionMS\model\Question.class
+com\thbs\questionMS\repository\QuestionRepository.class
+com\thbs\questionMS\exception\QuestionExceptionHandler.class
+com\thbs\questionMS\service\SequenceGeneratorService.class
+com\thbs\questionMS\exception\SubjectNotFoundException.class
+com\thbs\questionMS\dto\QuestionNumbersDto.class
